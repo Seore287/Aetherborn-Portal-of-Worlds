@@ -49,62 +49,50 @@ concealed or unattainable in one dimension but accessible in another. A bridge m
 or disclosing concealed pathways. Players must think critically about the timing and location for opening portals to manipulate objects or resolve multi-dimensional puzzles.
 
 ### Game Objects
-Elder Orin (Guardian of Aether) 
-- Backstory: Orin is among the final Aether guardians tasked to maintain balance between realms. He has observed the climb and descent of numerous civilisations and acts as a guide to the protagonist, providing 
-cryptic counsel and essential experience throughout the journey. 
-- Narrative Role: Supply the player with information on traversing the gateways and beating the ancient entity. In some scenes, the player appears as a ghostlike figure. 
-- Dialogue Sample – “The portals are not solely doorways, but ruptures in the fabric of the realms. They demand respect, for the journey ahead is both perilous and illuminating.” 
-- Special Powers: Time manipulation and Dimensional projection 
-- Age: Eternal
+The Fabled Hunter (A Legendary Tracker) 
+- Role: A reclusive hunter who knows how to track and tame magical creatures.
+- Appearance: A rugged traveler wearing an enchanted wolf pelt, carrying a bow infused with Aether energy.
+- Interaction:
+Teaches the player how to track rare creatures in the forest.
+Offers hunting or tracking quests.
+Helps the player tame Aether Creatures to use as temporary allies.
 
-Jada (Merchant) 
-- Backstory: A covert trader traversing realms in pursuit of priceless treasures for commerce. The NPC maintains neutrality in the war while providing valuable products and information.
-- Narrative Role: Provides the protagonist with vital equipment, weapons, and restorative items. Occasionally, she discloses details regarding the locations of in-game adversaries and hidden routes. 
-- Dialogue Sample – “You are always in need of something, are you not? I own precisely what you seek, subject to an appropriate fee.” 
-- Special Powers: Unknown  
-- Age: Unknown
+The Hollow Monarch (The Forgotten King) 
+- Role: The spectral remnant of a ruler whose kingdom once thrived in the Aether Forest but was lost to a cataclysm.
+- Appearance: A regal, ghostly figure clad in broken armor, holding a translucent blade.
+- Lore Contribution:
+Tells the tragic tale of his fallen people and why they vanished.
+May have insight into an ancient Aetheric catastrophe.
+Knows the origins of the Great Enemy (Morvain?).
+- Interaction:
+Grants a quest to restore a lost monument in his honor.
+Might test the player’s worthiness through a battle or puzzle.
+If honored, he gives the player his royal sigil, unlocking secret areas.
 
 #### Game Enemies
-Wraithborn 
-- Backstory: A rogue trader traversing realms in pursuit of valuable treasures for trade. The NPC maintains neutrality in conflict while o ering essential items and knowledge. 
+Aether Spiders 
+- Large, glowing, or crystalline spiders that can shoot web-like energy strands or phase in and out of sight. 
 #### Attributes:  
 - Health: Moderate 
 - Speed: High 
 - Damage: Medium 
-#### Attacks:  
-- Shadow Swipe: rapid and incisive claw attacks. 
-- Rift Step: Teleports small distances to ambush the protagonist.
 
-Void Reaper (Boss Monster) 
-- Backstory: A formidable being shaped from the warped dimension. It is the protector of an unstable portal and serves the ancient force that threatens the equilibrium of the realms. 
+Crystal Golems 
+- Backstory: Ancient stone-and-crystal constructs, possibly guarding secrets deep in the forest.
 #### Attributes:  
 - Health: Extremely High 
 - Speed: Low 
 - Damage: High 
-#### Attacks:
-- Crushing Blow: A massive overhead attack with its scythe causing area effect damage. 
-- Void Pull: ensnares the protagonist and adjacent enemies into a vortex that inflicts damage over time. 
-Special Powers:
-- Energy Absorb: briefly enhances its power by absorbing elemental strikes. 
 
 ### Game Weapons
-Void Sword 
+Ancient Axe
 #### Attributes: 
 - Damage: 50 - 70 
-- Elemental E ect: 10 - 20 
+- Elemental Effect: 10 - 20 
 - Range: Medium 
 - Speed: Fast 
 #### Behaviour:  
 - Upon attacking, it can intricate an elemental detonation corresponding to the elemental a inity of the current realm.
-
-Aether Spear 
-#### Attributes:  
-- Damage: 40 – 60 (melee), 30 – 50 (thrown) 
-- Special E ect: generates a crack upon being thrown 
-- Range: Long 
-- Speed: Moderate 
-#### Behaviour:  
-- Upon being hurled, the spear generates a small dimensional rift, inflicts area damage and attracts adjacent foes. 
 
 ## Player Controls
 - Movement: WASD / Left Joystick 
