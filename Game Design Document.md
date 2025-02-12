@@ -75,13 +75,20 @@ Aether Spiders
 #### Attributes:  
 - Health: Moderate 
 - Speed: High 
-- Damage: Medium 
+- Damage: Low
 
 Crystal Golems 
 - Backstory: Ancient stone-and-crystal constructs, possibly guarding secrets deep in the forest.
 #### Attributes:  
-- Health: Extremely High 
+- Health: High 
 - Speed: Low 
+- Damage: High
+
+NightShade
+- Backstory: Shadowy creatures that blend with the darkness, striking when least expected.
+#### Attributes:  
+- Health: Extremely High 
+- Speed: Medium
 - Damage: High 
 
 ### Game Weapons
